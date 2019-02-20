@@ -3,12 +3,12 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  var = name 
+  var = "name"
   return "name"
 end
 
 def argue(arguement)
-  return ""
+  return "I'm right and you are wrong"
 end
 
 def greeting(greeting, name)
